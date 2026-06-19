@@ -18,4 +18,4 @@ Interactive Power BI dashboard analyzing employee attrition patterns and workfor
 - HR Analytics
 
 ## Dashboard Preview
-Dashboard_Screenshot.jpeg
+![Dashboard Screenshot](Dashboard_Screenshot.jpeg)
